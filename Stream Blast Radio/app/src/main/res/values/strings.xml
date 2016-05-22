@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blast Radio</string>
+
+    <string name="title_1">Blast Radio</string>
+    <string name="title_2">Social</string>
+
+    <string name="connection_error_dialog_title">Connection Error</string>
+    <string name="radio_offline">The radio is offline.</string>
+    <string name="resume">Tap to resume.</string>
+    <string name="connection_error_dialog_message">No Internet connection. Please check your connection and try again.</string>
+    <string name="connection_error_dialog_button">Retry</string>
+
+    <string name="admob_id">ca-app-pub-6724609620092206/8406682772</string>  <!--ca-app-pub-6724609620092206/8406682772-->
+    <string name="admob_true_or_false">true</string>
+
+    <string name="welcome_big">Blast Radio</string>
+    <string name="welcome_small">Tap to start.</string>
+
+    <string name="radio_name">Blast Radio</string>
+    <string name="radio_location">West London University</string>
+    <string name="radio_url">http://Uk4-vn.mixstream.net:8064/</string>
+
+    <string name="web_url">https://twitter.com/@UWLBlastMedia</string>
+    <string name="share_url">http://uwlblastmedia.com/</string>
+
+    <string name="autostart_true_or_false">false</string>
+</resources>

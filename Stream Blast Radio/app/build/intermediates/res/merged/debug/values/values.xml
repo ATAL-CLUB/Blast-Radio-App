@@ -287,7 +287,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="accept">Accept</string>
     <string name="admob_id">ca-app-pub-6724609620092206/8406682772</string>
-    <string name="admob_true_or_false">false</string>
+    <string name="admob_true_or_false">true</string>
     <string name="app_name">Blast Radio</string>
     <string name="autostart_true_or_false">false</string>
     <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>

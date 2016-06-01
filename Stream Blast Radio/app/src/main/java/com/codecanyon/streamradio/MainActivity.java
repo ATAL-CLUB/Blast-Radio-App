@@ -23,6 +23,7 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
+import android.util.Log;
 import android.view.Display;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
@@ -44,6 +45,9 @@ import android.widget.Toast;
 import com.codecanyon.radio.R;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.onesignal.OneSignal;
+
+import org.json.JSONObject;
 
 import java.util.ArrayList;
 
@@ -166,7 +170,13 @@ public class MainActivity extends FragmentActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        OneSignal.startInit(this)
+                .setNotificationOpenedHandler(new ExampleNotificationOpenedHandler())
+                .init();
+
         super.onCreate(savedInstanceState);
+
         this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
 
@@ -522,6 +532,25 @@ public class MainActivity extends FragmentActivity {
                 }
             }
         }.start();
+    }
+
+    // This fires when a notification is opened by tapping on it or one is received while the app is running.
+    private class ExampleNotificationOpenedHandler implements OneSignal.NotificationOpenedHandler {
+        @Override
+        public void notificationOpened(String message, JSONObject additionalData, boolean isActive) {
+            try {
+                if (additionalData != null) {
+                    if (additionalData.has("actionSelected"))
+
+                        Log.d("OneSignalExample", "OneSignal notification button with id " + additionalData.getString("actionSelected") + " pressed");
+
+                    Log.d("OneSignalExample", "Full additionalData:\n" + additionalData.toString());
+                }
+            } catch (Throwable t) {
+                t.printStackTrace();
+            }
+
+        }
     }
 }
 

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
+        "outputFile": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v18\\values-v18.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v18/values-v18.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

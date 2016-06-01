@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "outputFile": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 207
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 310
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 413
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 518
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 625
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 734
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 843
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 952
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1061
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1170
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1277
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1380
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1499
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -278,7 +278,7 @@
                     "endOffset": 1654
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -299,7 +299,7 @@
                     "endOffset": 1809
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -319,7 +319,7 @@
                     "endOffset": 1914
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -338,7 +338,7 @@
                     "endOffset": 2035
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -357,7 +357,7 @@
                     "endOffset": 2136
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -377,7 +377,7 @@
                     "endOffset": 2283
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 2424
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -418,7 +418,7 @@
                     "endOffset": 2527
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -437,7 +437,7 @@
                     "endOffset": 2646
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -456,7 +456,7 @@
                     "endOffset": 2753
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -475,7 +475,7 @@
                     "endOffset": 2856
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -495,7 +495,7 @@
                     "endOffset": 3003
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 3158
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3329
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3478
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3643
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3800
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 3951
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -641,7 +641,7 @@
                     "endOffset": 4070
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -661,7 +661,7 @@
                     "endOffset": 4219
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -682,7 +682,7 @@
                     "endOffset": 4368
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -702,7 +702,7 @@
                     "endOffset": 4480
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -721,7 +721,7 @@
                     "endOffset": 4627
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -741,7 +741,7 @@
                     "endOffset": 4780
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -762,7 +762,7 @@
                     "endOffset": 4927
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -782,7 +782,7 @@
                     "endOffset": 5002
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -801,7 +801,7 @@
                     "endOffset": 5091
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -820,7 +820,7 @@
                     "endOffset": 5178
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -839,7 +839,7 @@
                     "endOffset": 5279
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -859,7 +859,7 @@
                     "endOffset": 8685
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -880,7 +880,7 @@
                     "endOffset": 8871
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 129,
                         "startColumn": 4,
@@ -901,7 +901,7 @@
                     "endOffset": 12289
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 132,
                         "startColumn": 4,
@@ -922,7 +922,7 @@
                     "endOffset": 12487
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -943,7 +943,7 @@
                     "endOffset": 12610
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -964,7 +964,7 @@
                     "endOffset": 12733
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -985,7 +985,7 @@
                     "endOffset": 12846
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
@@ -1006,7 +1006,7 @@
                     "endOffset": 13029
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1027,7 +1027,7 @@
                     "endOffset": 13160
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1047,7 +1047,7 @@
                     "endOffset": 13277
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1066,7 +1066,7 @@
                     "endOffset": 13366
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -1085,7 +1085,7 @@
                     "endOffset": 13477
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -1104,7 +1104,7 @@
                     "endOffset": 13604
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -1123,7 +1123,7 @@
                     "endOffset": 13705
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1142,7 +1142,7 @@
                     "endOffset": 13800
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 201,
                         "startColumn": 4,
@@ -1161,7 +1161,7 @@
                     "endOffset": 13923
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1180,7 +1180,7 @@
                     "endOffset": 14052
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1199,7 +1199,7 @@
                     "endOffset": 14169
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1218,7 +1218,7 @@
                     "endOffset": 14262
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1238,7 +1238,7 @@
                     "endOffset": 14397
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -1259,7 +1259,7 @@
                     "endOffset": 14540
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -1280,7 +1280,7 @@
                     "endOffset": 14675
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -1301,7 +1301,7 @@
                     "endOffset": 14794
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 212,
                         "startColumn": 4,
@@ -1322,7 +1322,7 @@
                     "endOffset": 14995
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 214,
                         "startColumn": 4,
@@ -1343,7 +1343,7 @@
                     "endOffset": 15114
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1363,7 +1363,7 @@
                     "endOffset": 15207
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1382,7 +1382,7 @@
                     "endOffset": 15318
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -1401,7 +1401,7 @@
                     "endOffset": 15374
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -1421,7 +1421,7 @@
                     "endOffset": 15481
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 223,
                         "startColumn": 4,
@@ -1442,7 +1442,7 @@
                     "endOffset": 15676
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 225,
                         "startColumn": 4,
@@ -1463,7 +1463,7 @@
                     "endOffset": 15787
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 229,
                         "startColumn": 4,
@@ -1484,7 +1484,7 @@
                     "endOffset": 15920
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1504,7 +1504,7 @@
                     "endOffset": 16015
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 233,
                         "startColumn": 4,
@@ -1523,7 +1523,7 @@
                     "endOffset": 16106
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 234,
                         "startColumn": 4,
@@ -1542,7 +1542,7 @@
                     "endOffset": 16219
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 235,
                         "startColumn": 4,
@@ -1561,7 +1561,7 @@
                     "endOffset": 16336
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 236,
                         "startColumn": 4,
@@ -1581,7 +1581,7 @@
                     "endOffset": 16475
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
@@ -1602,7 +1602,7 @@
                     "endOffset": 16828
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -1623,7 +1623,7 @@
                     "endOffset": 17193
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 248,
                         "startColumn": 4,
@@ -1644,7 +1644,7 @@
                     "endOffset": 17873
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 255,
                         "startColumn": 4,
@@ -1664,7 +1664,7 @@
                     "endOffset": 17930
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 265,
                         "startColumn": 4,
@@ -1683,7 +1683,7 @@
                     "endOffset": 17988
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -1702,7 +1702,7 @@
                     "endOffset": 18110
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\9.0.0\\res\\values-v21\\values.xml",
+                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/res/values-v21/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

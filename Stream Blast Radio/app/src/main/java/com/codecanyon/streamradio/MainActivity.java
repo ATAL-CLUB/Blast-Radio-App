@@ -1,5 +1,6 @@
 package com.codecanyon.streamradio;
 
+import android.app.Activity;
 import android.app.Dialog;
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -21,11 +22,16 @@ import android.os.Bundle;
 import android.os.IBinder;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
+import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 import android.view.Display;
 import android.view.KeyEvent;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.Window;
@@ -41,6 +47,7 @@ import android.widget.LinearLayout;
 import android.widget.TableLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.support.v7.widget.Toolbar;
 
 import com.codecanyon.radio.R;
 import com.google.android.gms.ads.AdRequest;
@@ -51,7 +58,7 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-public class MainActivity extends FragmentActivity {
+public class MainActivity extends AppCompatActivity {
     private static DataManager dataManager;
     private static TableLayout UIRadioList;
     private static ArrayList<String> userRadios = new ArrayList<String>();
@@ -78,6 +85,7 @@ public class MainActivity extends FragmentActivity {
     private static boolean exit = false;
     public static int page=1;
     public static int pos=0;
+    private Toolbar toolbar;
 
     @Override
     protected void onStart() {
@@ -97,12 +105,12 @@ public class MainActivity extends FragmentActivity {
         super.onStop();
         active = false;
         if(notificationWhile){
-            MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
+//            MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
         }
     }
 
     public static void newNotification(String notText, boolean status) {
-        nPanel.showNotification(notText, status);
+//        nPanel.showNotification(notText, status);
     }
 
     public static void radioListRefresh() {
@@ -177,8 +185,11 @@ public class MainActivity extends FragmentActivity {
 
         super.onCreate(savedInstanceState);
 
-        this.requestWindowFeature(Window.FEATURE_NO_TITLE);
+//        this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
+
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
 
         dataManager = new DataManager(this);
         fontRegular = Typeface.createFromAsset(getAssets(), "fonts/font.otf");
@@ -187,7 +198,7 @@ public class MainActivity extends FragmentActivity {
 
         ServiceConnection mConnection = new ServiceConnection() {
             public void onServiceConnected(ComponentName className,
-                                           IBinder binder) {
+                                            IBinder binder) {
 				((KillNotificationsService.KillBinder) binder).service.startService(new Intent(
                         MainActivity.this, KillNotificationsService.class));
                 Intent notificationIntent = new Intent(MainActivity.this,
@@ -302,6 +313,20 @@ public class MainActivity extends FragmentActivity {
 
         TelephonyManager telephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
         telephonyManager.listen(new PhoneCallListener(), PhoneStateListener.LISTEN_CALL_STATE);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == R.id.action_settings) {
+        }
+        return false;
     }
 
             @Override

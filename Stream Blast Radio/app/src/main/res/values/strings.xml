@@ -25,4 +25,5 @@
     <string name="share_url">http://uwlblastmedia.com/</string>
 
     <string name="autostart_true_or_false">false</string>
+    <string name="action_settings">Settings</string>
 </resources>

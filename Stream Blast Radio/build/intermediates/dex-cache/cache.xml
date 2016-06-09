@@ -2,375 +2,410 @@
 <items version="2" >
 
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_59ce25dfa1c3e3b719830a3ec195463d61b19fe0/classes.dex" />
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.2_65a115d88ebcf02271d0647eafa379547682220e/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.0_074625f5c8d786f0e5acfa9f206e9bb3279012b9/classes.dex" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_3623f040d2cfe08d5c8fdb52daab024eafb9af80/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_a91c9dff6ab8cb047ad02c51999b1c868325c155/classes.dex" />
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.2_70e320c525f92a3f04bd98318f501df867a3028e/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.0_f91fdc871834283fc3c66e5007d0411396d6ef67/classes.dex" />
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.2_1b23cc9336dd515385dcb15e7812d9f433b563d9/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_9e9d43d26b03adf4c9e958d39eb412aff8629013/classes.dex" />
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_01e6aedfa18d8fe011782ab120a6c0bf37cb8d96/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.2_90fe708d81a4410d78fe54b246449cb84fcc5791/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_6de42fb0cc2f221b9a15ccba4b922b0b88d05691/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_82e3aafcab5bb687a8b118a8b2052e37cc538f1d/classes.dex" />
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_3a0f3ffca44f372763518a6ec739ef20d28aab2d/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.0_04f6f3df88c6c47c08f2b7bf521a25ebb3bc9cfc/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.0_949c55810911348f318b38350f2bb7654a557f71/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_0aa9dd41d8e74912fcd279a9876a4293cb1f8042/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_1b98b0e21290b4bd1b0516e555b70549a522abae/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.0_e2d04d1acbd9fa731c34ebe071e94373a3d749a2/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.0_6797d93ac3353e01fcb6a2dea35255646c0a7d7b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.0_691cc3e6142d1fc529d6ced7919c6ddd0a532a6d/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_718eb1fde9a65e22515b5fc54716fdc7fc4af074/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.0_82910d9682939bacd95edb54d850a581ec4e2bac/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.0_39fc10f14c885c8f329382c20bdeda414da7c68a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.0_ea46dc166dbc4ddf1241c94c52639356fac0895a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_56995b24663f974440310afcf91845809bd723f8/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.0_1e60043f9daa398082b35e7d8c3870e47da3659b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.0_07a85ee1e8e81356facd5c3ab0fa73432b612352/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.0_86b67e102a8992a8797acd922898d7afbb1ef26a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="733964f04c339e425439545b1d172c23b53f8c13">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.0_7d1d08a50899c03a770e121976fe42aec72b0fee/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_0267c4fafbcf9194471e6a4df10c592018688582/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="940acca0600292b684862d1d3febbaa3685b48ae">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3b8483edfb4f93e6a16a6e33558868bb82a9ef10/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.0_0d1736cadd27e42211c66ca8f9cd6de3fd26200c/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/2.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="132396fede09bec357f996bc26cdba012e7510f8">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.onesignal-OneSignal-2.4.0_59f7d80dda5c40af89809ee8fdb736a43452ccd4/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_cdae25811d88962501d17e0bda2b2ff57534b18d/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.0_e0072446874513a7fc7d095cb6e61f6560480623/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.0_15d5811557a6701eae843b5d1d83267c2078870d/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.0_c2712aab3d96ce6dd65b37fc83f7a610e3ce7d2a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.0_96267cb4f3966c1e1137ad540be895fad6fa4ddd/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_0b812b3a9fc7e05dcc456e26648e0cf9df5bb6dd/classes.dex" />
-    </item>
-    <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/libs/aacdecoder-android-0.8.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/libs/aacdecoder-android-0.8.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="43fc2f0e7556b0a743cece06945b9eff5c241499">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/2/aacdecoder-android-0.8_77abfc6b8aa26cf97e566d2f4e0790ffac72f6f8/classes.dex" />
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/2/aacdecoder-android-0.8_7395c247ccdd57c23b9eee267f7f51d042ee383a/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.0_dc419f242d36ac7a009409da56ce4a20b5d0a828/classes.dex" />
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_fed3709a9ce5ed1ea6775062a35a68869873cd67/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.0_003943c80015199e2eb3b6d8ba921bf51644af8c/classes.dex" />
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_584dd4ba7b8f64f354b13eabb66fc0744c5debcd/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_d17b379157d19bcf30c7ac17dde76ebac95b35dc/classes.dex" />
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.2_badfd07ffbcb422df9d9711ae06572dc5996e913/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_4998f28df11ccf7c71207cfe05bbb6f85efeb62e/classes.dex" />
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_c1290dbb2e54d208b5da06ee4ba4945221fb96db/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.0_b7d3283f871d30cd31c78276f7843efaa9ec6333/classes.dex" />
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.2_3306a6a67a2ea16456965c4aaf7d95cb8f3ddde4/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_2c7ac1ae84f6ce2a3910159235f4bece500998fa/classes.dex" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_269785af9ebe386803766cc10049072745f59a10/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.0_1919a7247e105afdf0984978e120363de6b2e124/classes.dex" />
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.2_ab1f7990892d7bd3f8c679a6235bef20d4a54d29/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.0_3245b3f15ab379861cb866b5fdf9383ea8c8976f/classes.dex" />
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.2_7b3c05d657e9c560953b02163df647aff9afdaf3/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.0_4063899bc6fc9262a36d5ef1ecd75b09066283a9/classes.dex" />
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.2_fbc0f21459f40534938db28ae675f2b41d468bc5/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_47905366e52917a246f7d0b0adc8c2ff9c34d6c7/classes.dex" />
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.2_ea4cb303c15e7ed58f36c87e06301328ee614617/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_a5ea8b49af055285edd3ba268763fe9a4f943b99/classes.dex" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e0100b231f1bc86c21c0585680cefec6b6511394/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="69472e334350cafbf442776da05c9a04955252fb">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.0_26de09f113dd0a045cd40934f6f650b1d4a3204b/classes.dex" />
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_0debebc47436aec79821140e98936ea922cf7de2/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.0_2df5eacd62d4bd329d3122c57fd9dd823c8ca592/classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4b728424249a2cf583169e5fe9bd2f3e95cfd527/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.0_b0dd6872653494e61a4d6e2c1e3a53e3022d8e9a/classes.dex" />
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.2_025b3537bd86e0e01b01ca7735dd3c702920b6d5/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_52a6a07669065532a67f480a9ac1cd3b875384f4/classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c3174db32f85432cb86c4447b2368457b1ebdbb5/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_e19801b7c99a799e9f1b40d4f3187a428e29d4ae/classes.dex" />
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.2_add3442879b46ff7100575c6402a393280713c22/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.0_a01ddb16900b5ec9dfaa68e9d06460823bab98dd/classes.dex" />
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.2_cbe267f300d44a5c357f2d83f738efa31697ec8b/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.0_9f92607f3aa79a15a58c6e3f51e84e743c3f1fc1/classes.dex" />
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_947acf16ed38415132f202cea59242934a65fc62/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="09098c028db6801a152b12e15d05acdf91d487ca">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4e0fcd669b5e08fb8a525db7be52f00e909be0e4/classes.dex" />
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_5cb67c09122e6b9f2542c6cdc7bec193aabdd1c5/classes.dex" />
     </item>
     <item
-        jar="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
-        <dex dex="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.0_e238fbb77715203b0a746c0edfb9b10d57cd9188/classes.dex" />
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_60cd2f209ef24317fd6bd8dfef95482155bcdaa7/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_6e82f380c7f056cfdf91c2b166384127013c2881/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_080f21b80cb62edae53f17e73463f325b6d59805/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_9b28892c4d1527dba424ad29ba2d46f3bf2ca4fe/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_1b137b21699e55592eb7c03aa02799c17e392985/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.2_2a340a0881f3f03f8e5af906e2150b7128ceaf38/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_06cec2ba1de37ab5cc30ba85e2fdc35442408378/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_91ae1774b4cd2e61e7acdb1099a110c962fb6052/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_35147454551cbabf22cbb3175ce7aa4df30f200c/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_570c0d746524d82f8790e73886495ccbb1661352/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_cab2758b838710df4a1af7b1deb13e16aa6dd76b/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.2_93bf3efbc2cdca72357b54dd8a4cfd6a85315404/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_9affdf9fd18c2e333425cc0365062772e17b1d28/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_626dca4501da8b92cdb8517b094b33fde08fb928/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_98ef641c8c6ffdf7ca0c1f801590630f62b486f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.2_fb3e716fc8b5e7abafdb7fa55b622380e0160a07/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_ff0d4397143e8b75d8f14cfac2ac0c6b66f764bd/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.2_ae5c0fd10ebab520bb9d1aac12e84b9b6e1cea97/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.2_67ac63602500a2c914baee5d298e3a497843df06/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.2_7cd5fbe89322899b3714b22ca83bc2a9befb00bd/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_1496688cf01a03851db14888952fe3a3ccb777ba/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d031764bdcedbd6aa49a0ce2dd8169ada63f60fc">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ee3296e6d1d9b163350c498632cd707a2fe1dd46/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e6bc00ae51ee7b8c1d4c8ab42879d11e48361b4f">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7e51824af6b6c78aa39d5e796ab5c3cdd4114ba3/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/2.4.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a2a970659ebfd3fdd42ff10dd6aebe48b042966d">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.onesignal-OneSignal-2.4.1_46e46d1d5fca9858c108f11c68915a78dedb27c5/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_fe8fecd1d24c2da0f45c404d18eb5c04e07e27a3/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.2_a4798c6916b205d7cda85ecbeb2a3f454c1d1b2f/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.2_f0b172a127ec84fd8bd9daa051a876feac2cfc6a/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_074c1618f158d52179249a713f7590a3e35a8e2f/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.2_5cbda1c67520d3f570a629676ff15a73ab48da5a/classes.dex" />
+    </item>
+    <item
+        jar="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_894f5f36fcba2928eaff64b967f19f67af6530c3/classes.dex" />
     </item>
 
 </items>

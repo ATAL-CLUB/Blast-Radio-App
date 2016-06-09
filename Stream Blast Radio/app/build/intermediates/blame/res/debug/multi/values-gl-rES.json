@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/values-gl-rES/values-gl-rES.xml",
+        "outputFile": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/values-gl-rES/values-gl-rES.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 162
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 55,
                         "endColumn": 111,
-                        "endOffset": 387
+                        "endOffset": 162
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 270
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 392,
+                        "startOffset": 167,
                         "endColumn": 107,
-                        "endOffset": 495
+                        "endOffset": 270
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 393
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 500,
+                        "startOffset": 275,
                         "endColumn": 122,
-                        "endOffset": 618
+                        "endOffset": 393
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 623,
+                        "startOffset": 398,
                         "endColumn": 111,
-                        "endOffset": 730
+                        "endOffset": 505
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 613
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 735,
+                        "startOffset": 510,
                         "endColumn": 107,
-                        "endOffset": 838
+                        "endOffset": 613
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 698
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 843,
+                        "startOffset": 618,
                         "endColumn": 84,
-                        "endOffset": 923
+                        "endOffset": 698
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 800
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 928,
+                        "startOffset": 703,
                         "endColumn": 101,
-                        "endOffset": 1025
+                        "endOffset": 800
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 926
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1030,
+                        "startOffset": 805,
                         "endColumn": 125,
-                        "endOffset": 1151
+                        "endOffset": 926
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 931,
-                    "endColumn": 81,
-                    "endOffset": 1008
+                    "endColumn": 83,
+                    "endOffset": 1010
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1156,
-                        "endColumn": 81,
-                        "endOffset": 1233
+                        "startOffset": 931,
+                        "endColumn": 83,
+                        "endOffset": 1010
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1013,
-                    "endColumn": 106,
-                    "endOffset": 1115
+                    "startOffset": 1015,
+                    "endColumn": 80,
+                    "endOffset": 1091
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1238,
-                        "endColumn": 106,
-                        "endOffset": 1340
+                        "startOffset": 1015,
+                        "endColumn": 80,
+                        "endOffset": 1091
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1120,
-                    "endColumn": 108,
-                    "endOffset": 1224
+                    "startOffset": 1096,
+                    "endColumn": 81,
+                    "endOffset": 1173
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1345,
-                        "endColumn": 108,
-                        "endOffset": 1449
+                        "startOffset": 1096,
+                        "endColumn": 81,
+                        "endOffset": 1173
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1229,
-                    "endColumn": 98,
-                    "endOffset": 1323
+                    "startOffset": 1178,
+                    "endColumn": 106,
+                    "endOffset": 1280
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1454,
-                        "endColumn": 98,
-                        "endOffset": 1548
+                        "startOffset": 1178,
+                        "endColumn": 106,
+                        "endOffset": 1280
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1328,
-                    "endColumn": 107,
-                    "endOffset": 1431
+                    "startOffset": 1285,
+                    "endColumn": 108,
+                    "endOffset": 1389
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1553,
-                        "endColumn": 107,
-                        "endOffset": 1656
+                        "startOffset": 1285,
+                        "endColumn": 108,
+                        "endOffset": 1389
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1436,
-                    "endColumn": 102,
-                    "endOffset": 1534
+                    "startOffset": 1394,
+                    "endColumn": 98,
+                    "endOffset": 1488
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1661,
-                        "endColumn": 102,
-                        "endOffset": 1759
+                        "startOffset": 1394,
+                        "endColumn": 98,
+                        "endOffset": 1488
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1539,
-                    "endColumn": 106,
-                    "endOffset": 1641
+                    "startOffset": 1493,
+                    "endColumn": 107,
+                    "endOffset": 1596
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1764,
-                        "endColumn": 106,
-                        "endOffset": 1866
+                        "startOffset": 1493,
+                        "endColumn": 107,
+                        "endOffset": 1596
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1646,
-                    "endColumn": 121,
-                    "endOffset": 1763
+                    "startOffset": 1601,
+                    "endColumn": 102,
+                    "endOffset": 1699
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1871,
-                        "endColumn": 121,
-                        "endOffset": 1988
+                        "startOffset": 1601,
+                        "endColumn": 102,
+                        "endOffset": 1699
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1768,
-                    "endColumn": 99,
-                    "endOffset": 1863
+                    "startOffset": 1704,
+                    "endColumn": 106,
+                    "endOffset": 1806
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1993,
-                        "endColumn": 99,
-                        "endOffset": 2088
+                        "startOffset": 1704,
+                        "endColumn": 106,
+                        "endOffset": 1806
                     }
                 }
             },
@@ -329,12 +329,50 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1868,
-                    "endColumn": 106,
-                    "endOffset": 1970
+                    "startOffset": 1811,
+                    "endColumn": 121,
+                    "endOffset": 1928
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endColumn": 121,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1933,
+                    "endColumn": 99,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1933,
+                        "endColumn": 99,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 106,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -346,14 +384,14 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1975,
+                    "startOffset": 2140,
                     "endColumn": 113,
-                    "endOffset": 2084
+                    "endOffset": 2249
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -365,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2089,
+                    "startOffset": 2254,
                     "endColumn": 110,
-                    "endOffset": 2195
+                    "endOffset": 2360
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -384,14 +422,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2200,
+                    "startOffset": 2365,
                     "endColumn": 105,
-                    "endOffset": 2301
+                    "endOffset": 2466
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -403,14 +441,14 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2306,
+                    "startOffset": 2471,
                     "endColumn": 132,
-                    "endOffset": 2434
+                    "endOffset": 2599
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -422,14 +460,14 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2439,
+                    "startOffset": 2604,
                     "endColumn": 95,
-                    "endOffset": 2530
+                    "endOffset": 2695
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -441,14 +479,14 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2535,
+                    "startOffset": 2700,
                     "endColumn": 98,
-                    "endOffset": 2629
+                    "endOffset": 2794
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -460,14 +498,14 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2634,
+                    "startOffset": 2799,
                     "endColumn": 125,
-                    "endOffset": 2755
+                    "endOffset": 2920
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -479,14 +517,14 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2760,
+                    "startOffset": 2925,
                     "endColumn": 104,
-                    "endOffset": 2860
+                    "endOffset": 3025
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -498,14 +536,14 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2865,
+                    "startOffset": 3030,
                     "endColumn": 86,
-                    "endOffset": 2947
+                    "endOffset": 3112
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -517,14 +555,14 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2952,
+                    "startOffset": 3117,
                     "endColumn": 98,
-                    "endOffset": 3046
+                    "endOffset": 3211
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -536,20 +574,20 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3051,
+                    "startOffset": 3216,
                     "endColumn": 100,
-                    "endOffset": 3147
+                    "endOffset": 3312
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2093,
+                        "startOffset": 2033,
                         "endColumn": 100,
-                        "endOffset": 2189
+                        "endOffset": 2129
                     }
                 }
             }

@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="21"
-    density="xxhdpi"
+    abi="x86_64,x86"
+    api-level="23"
+    density="560dpi"
     format="7"
-    timestamp="53590897634399" >
+    timestamp="12611367275127"
+    token="-323722726636063759" >
 
     <task
         name="javac"
-        duration="1595" />
+        duration="794" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="960" />
+        duration="182" />
     <task
         name="verifier"
-        duration="88" />
+        duration="9" />
 
     <artifact
-        location="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/outputs/apk/app-debug.apk"
+        location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="53590897634399" >
+    <build timestamp="12611367275127" >
         <artifact
-            location="/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/outputs/apk/app-debug.apk"
+            location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

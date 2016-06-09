@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/values-pt/values-pt.xml",
+        "outputFile": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/values-pt/values-pt.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 170
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 276,
+                        "startOffset": 55,
                         "endColumn": 119,
-                        "endOffset": 391
+                        "endOffset": 170
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 278
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 396,
+                        "startOffset": 175,
                         "endColumn": 107,
-                        "endOffset": 499
+                        "endOffset": 278
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 401
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 504,
+                        "startOffset": 283,
                         "endColumn": 122,
-                        "endOffset": 622
+                        "endOffset": 401
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 507
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 627,
+                        "startOffset": 406,
                         "endColumn": 105,
-                        "endOffset": 728
+                        "endOffset": 507
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 614
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 733,
+                        "startOffset": 512,
                         "endColumn": 106,
-                        "endOffset": 835
+                        "endOffset": 614
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 703
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 840,
+                        "startOffset": 619,
                         "endColumn": 88,
-                        "endOffset": 924
+                        "endOffset": 703
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 929,
+                        "startOffset": 708,
                         "endColumn": 100,
-                        "endOffset": 1025
+                        "endOffset": 804
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 922
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1030,
+                        "startOffset": 809,
                         "endColumn": 117,
-                        "endOffset": 1143
+                        "endOffset": 922
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 927,
-                    "endColumn": 86,
-                    "endOffset": 1009
+                    "endColumn": 82,
+                    "endOffset": 1005
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1148,
-                        "endColumn": 86,
-                        "endOffset": 1230
+                        "startOffset": 927,
+                        "endColumn": 82,
+                        "endOffset": 1005
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1014,
-                    "endColumn": 106,
-                    "endOffset": 1116
+                    "startOffset": 1010,
+                    "endColumn": 79,
+                    "endOffset": 1085
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1235,
-                        "endColumn": 106,
-                        "endOffset": 1337
+                        "startOffset": 1010,
+                        "endColumn": 79,
+                        "endOffset": 1085
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1121,
-                    "endColumn": 111,
-                    "endOffset": 1228
+                    "startOffset": 1090,
+                    "endColumn": 86,
+                    "endOffset": 1172
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1342,
-                        "endColumn": 111,
-                        "endOffset": 1449
+                        "startOffset": 1090,
+                        "endColumn": 86,
+                        "endOffset": 1172
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1233,
-                    "endColumn": 101,
-                    "endOffset": 1330
+                    "startOffset": 1177,
+                    "endColumn": 106,
+                    "endOffset": 1279
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1454,
-                        "endColumn": 101,
-                        "endOffset": 1551
+                        "startOffset": 1177,
+                        "endColumn": 106,
+                        "endOffset": 1279
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1335,
-                    "endColumn": 107,
-                    "endOffset": 1438
+                    "startOffset": 1284,
+                    "endColumn": 111,
+                    "endOffset": 1391
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1556,
-                        "endColumn": 107,
-                        "endOffset": 1659
+                        "startOffset": 1284,
+                        "endColumn": 111,
+                        "endOffset": 1391
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1443,
-                    "endColumn": 106,
-                    "endOffset": 1545
+                    "startOffset": 1396,
+                    "endColumn": 101,
+                    "endOffset": 1493
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1664,
-                        "endColumn": 106,
-                        "endOffset": 1766
+                        "startOffset": 1396,
+                        "endColumn": 101,
+                        "endOffset": 1493
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1550,
-                    "endColumn": 109,
-                    "endOffset": 1655
+                    "startOffset": 1498,
+                    "endColumn": 107,
+                    "endOffset": 1601
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1771,
-                        "endColumn": 109,
-                        "endOffset": 1876
+                        "startOffset": 1498,
+                        "endColumn": 107,
+                        "endOffset": 1601
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1660,
-                    "endColumn": 124,
-                    "endOffset": 1780
+                    "startOffset": 1606,
+                    "endColumn": 106,
+                    "endOffset": 1708
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1881,
-                        "endColumn": 124,
-                        "endOffset": 2001
+                        "startOffset": 1606,
+                        "endColumn": 106,
+                        "endOffset": 1708
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1785,
-                    "endColumn": 99,
-                    "endOffset": 1880
+                    "startOffset": 1713,
+                    "endColumn": 109,
+                    "endOffset": 1818
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2006,
-                        "endColumn": 99,
-                        "endOffset": 2101
+                        "startOffset": 1713,
+                        "endColumn": 109,
+                        "endOffset": 1818
                     }
                 }
             },
@@ -329,12 +329,50 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1885,
-                    "endColumn": 110,
-                    "endOffset": 1991
+                    "startOffset": 1823,
+                    "endColumn": 124,
+                    "endOffset": 1943
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1823,
+                        "endColumn": 124,
+                        "endOffset": 1943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1948,
+                    "endColumn": 99,
+                    "endOffset": 2043
+                },
+                "from": {
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1948,
+                        "endColumn": 99,
+                        "endOffset": 2043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2048,
+                    "endColumn": 110,
+                    "endOffset": 2154
+                },
+                "from": {
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -346,14 +384,14 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1996,
+                    "startOffset": 2159,
                     "endColumn": 115,
-                    "endOffset": 2107
+                    "endOffset": 2270
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -365,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2112,
+                    "startOffset": 2275,
                     "endColumn": 110,
-                    "endOffset": 2218
+                    "endOffset": 2381
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -384,14 +422,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2223,
+                    "startOffset": 2386,
                     "endColumn": 105,
-                    "endOffset": 2324
+                    "endOffset": 2487
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -403,14 +441,14 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2329,
+                    "startOffset": 2492,
                     "endColumn": 131,
-                    "endOffset": 2456
+                    "endOffset": 2619
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -422,14 +460,14 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2461,
+                    "startOffset": 2624,
                     "endColumn": 96,
-                    "endOffset": 2553
+                    "endOffset": 2716
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -441,14 +479,14 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2558,
+                    "startOffset": 2721,
                     "endColumn": 99,
-                    "endOffset": 2653
+                    "endOffset": 2816
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -460,14 +498,14 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2658,
+                    "startOffset": 2821,
                     "endColumn": 125,
-                    "endOffset": 2779
+                    "endOffset": 2942
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -479,14 +517,14 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2784,
+                    "startOffset": 2947,
                     "endColumn": 112,
-                    "endOffset": 2892
+                    "endOffset": 3055
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -498,14 +536,14 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2897,
+                    "startOffset": 3060,
                     "endColumn": 86,
-                    "endOffset": 2979
+                    "endOffset": 3142
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -517,14 +555,14 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2984,
+                    "startOffset": 3147,
                     "endColumn": 98,
-                    "endOffset": 3078
+                    "endOffset": 3241
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -536,20 +574,20 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3083,
+                    "startOffset": 3246,
                     "endColumn": 100,
-                    "endOffset": 3179
+                    "endOffset": 3342
                 },
                 "from": {
-                    "file": "/Users/EmmanuelAdeleke/Documents/Projects/BR/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-pt/values-pt.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2106,
+                        "startOffset": 2048,
                         "endColumn": 100,
-                        "endOffset": 2202
+                        "endOffset": 2144
                     }
                 }
             }

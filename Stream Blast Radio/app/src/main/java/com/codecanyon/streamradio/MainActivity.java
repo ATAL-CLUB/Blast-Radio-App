@@ -20,7 +20,11 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.os.IBinder;
+import android.support.design.widget.TabLayout;
+import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
@@ -57,6 +61,11 @@ import com.onesignal.OneSignal;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
+import java.util.List;
+
+import layout.FeedFragment;
+import layout.LiveFragment;
+import layout.PodcastFragment;
 
 public class MainActivity extends AppCompatActivity {
     private static DataManager dataManager;
@@ -86,6 +95,8 @@ public class MainActivity extends AppCompatActivity {
     public static int page=1;
     public static int pos=0;
     private Toolbar toolbar;
+    private TabLayout tabLayout;
+    private ViewPager pager;
 
     @Override
     protected void onStart() {
@@ -190,6 +201,12 @@ public class MainActivity extends AppCompatActivity {
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        pager = (ViewPager) findViewById(R.id.viewpager);
+        setupViewPager(pager);
+
+        tabLayout = (TabLayout) findViewById(R.id.tabs);
+        tabLayout.setupWithViewPager(pager);
 
         dataManager = new DataManager(this);
         fontRegular = Typeface.createFromAsset(getAssets(), "fonts/font.otf");
@@ -313,6 +330,43 @@ public class MainActivity extends AppCompatActivity {
 
         TelephonyManager telephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
         telephonyManager.listen(new PhoneCallListener(), PhoneStateListener.LISTEN_CALL_STATE);
+    }
+
+    private void setupViewPager(ViewPager viewPager) {
+        ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
+        adapter.addFragment(new LiveFragment(), "ONE");
+        adapter.addFragment(new PodcastFragment(), "TWO");
+        adapter.addFragment(new FeedFragment(), "THREE");
+        viewPager.setAdapter(adapter);
+    }
+
+    class ViewPagerAdapter extends FragmentPagerAdapter {
+        private final List<Fragment> mFragmentList = new ArrayList<>();
+        private final List<String> mFragmentTitleList = new ArrayList<>();
+
+        public ViewPagerAdapter(FragmentManager manager) {
+            super(manager);
+        }
+
+        @Override
+        public Fragment getItem(int position) {
+            return mFragmentList.get(position);
+        }
+
+        @Override
+        public int getCount() {
+            return mFragmentList.size();
+        }
+
+        public void addFragment(Fragment fragment, String title) {
+            mFragmentList.add(fragment);
+            mFragmentTitleList.add(title);
+        }
+
+        @Override
+        public CharSequence getPageTitle(int position) {
+            return mFragmentTitleList.get(position);
+        }
     }
 
     @Override

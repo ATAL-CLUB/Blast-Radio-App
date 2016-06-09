@@ -97,6 +97,11 @@ public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager pager;
+    private int[] tabIcons = {
+            R.drawable.ic_action_radio,
+            R.drawable.ic_action_podcast,
+            R.drawable.ic_action_device_dvr
+    };
 
     @Override
     protected void onStart() {
@@ -207,6 +212,8 @@ public class MainActivity extends AppCompatActivity {
 
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(pager);
+
+        setupTabIcons();
 
         dataManager = new DataManager(this);
         fontRegular = Typeface.createFromAsset(getAssets(), "fonts/font.otf");
@@ -334,10 +341,16 @@ public class MainActivity extends AppCompatActivity {
 
     private void setupViewPager(ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
-        adapter.addFragment(new LiveFragment(), "ONE");
-        adapter.addFragment(new PodcastFragment(), "TWO");
-        adapter.addFragment(new FeedFragment(), "THREE");
+        adapter.addFragment(new LiveFragment(), "Live");
+        adapter.addFragment(new PodcastFragment(), "Podcasts");
+        adapter.addFragment(new FeedFragment(), "Blast Feed");
         viewPager.setAdapter(adapter);
+    }
+
+    private void setupTabIcons() {
+        tabLayout.getTabAt(0).setIcon(tabIcons[0]);
+        tabLayout.getTabAt(1).setIcon(tabIcons[1]);
+        tabLayout.getTabAt(2).setIcon(tabIcons[2]);
     }
 
     class ViewPagerAdapter extends FragmentPagerAdapter {

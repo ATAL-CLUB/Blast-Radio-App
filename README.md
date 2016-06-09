@@ -1,4 +1,4 @@
-# Blast-Radio-App
+# Blast-Radio-Application
 Please do not use the Master branch to update the code,
 Different branches have been created for testing and modifying purposes.
 

@@ -84,6 +84,10 @@
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_wifi_black_36dp.png",
+        "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/drawable-xhdpi/ic_wifi_black_36dp.png"
+    },
+    {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },

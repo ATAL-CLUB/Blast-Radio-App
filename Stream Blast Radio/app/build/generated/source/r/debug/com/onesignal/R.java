@@ -116,10 +116,10 @@ public final class R {
 		public static final int common_plus_signin_btn_text_light_focused = 0x7f020079;
 		public static final int common_plus_signin_btn_text_light_normal = 0x7f02007a;
 		public static final int common_plus_signin_btn_text_light_pressed = 0x7f02007b;
-		public static final int places_ic_clear = 0x7f0200b1;
-		public static final int places_ic_search = 0x7f0200b2;
-		public static final int powered_by_google_dark = 0x7f0200b3;
-		public static final int powered_by_google_light = 0x7f0200b4;
+		public static final int places_ic_clear = 0x7f0200b2;
+		public static final int places_ic_search = 0x7f0200b3;
+		public static final int powered_by_google_dark = 0x7f0200b4;
+		public static final int powered_by_google_light = 0x7f0200b5;
 	}
 	public static final class id {
 		public static final int adjust_height = 0x7f0c0043;

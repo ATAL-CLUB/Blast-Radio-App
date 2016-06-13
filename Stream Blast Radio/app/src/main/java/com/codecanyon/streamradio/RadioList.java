@@ -29,7 +29,7 @@ public class RadioList extends LinearLayout {
     public RadioList(Context context, ArrayList<RadioListElement> radioList, TableLayout radioListUI) {
         super(context);
         View.inflate(context, R.layout.fragment_radios, this);
-        this.radioList = radioList;
+        RadioList.radioList = radioList;
         this.radioListUI = radioListUI;
     }
 

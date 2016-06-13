@@ -661,21 +661,21 @@ public final class R {
 		public static final int ic_plusone_small_off_client = 0x7f02009c;
 		public static final int ic_plusone_standard_off_client = 0x7f02009d;
 		public static final int ic_plusone_tall_off_client = 0x7f02009e;
-		public static final int mr_ic_cast_dark = 0x7f0200a4;
-		public static final int mr_ic_cast_light = 0x7f0200a5;
-		public static final int mr_ic_media_route_connecting_mono_dark = 0x7f0200a6;
-		public static final int mr_ic_media_route_connecting_mono_light = 0x7f0200a7;
-		public static final int mr_ic_media_route_mono_dark = 0x7f0200a8;
-		public static final int mr_ic_media_route_mono_light = 0x7f0200a9;
-		public static final int mr_ic_pause_dark = 0x7f0200aa;
-		public static final int mr_ic_pause_light = 0x7f0200ab;
-		public static final int mr_ic_play_dark = 0x7f0200ac;
-		public static final int mr_ic_play_light = 0x7f0200ad;
-		public static final int notification_template_icon_bg = 0x7f0200fb;
-		public static final int places_ic_clear = 0x7f0200b1;
-		public static final int places_ic_search = 0x7f0200b2;
-		public static final int powered_by_google_dark = 0x7f0200b3;
-		public static final int powered_by_google_light = 0x7f0200b4;
+		public static final int mr_ic_cast_dark = 0x7f0200a5;
+		public static final int mr_ic_cast_light = 0x7f0200a6;
+		public static final int mr_ic_media_route_connecting_mono_dark = 0x7f0200a7;
+		public static final int mr_ic_media_route_connecting_mono_light = 0x7f0200a8;
+		public static final int mr_ic_media_route_mono_dark = 0x7f0200a9;
+		public static final int mr_ic_media_route_mono_light = 0x7f0200aa;
+		public static final int mr_ic_pause_dark = 0x7f0200ab;
+		public static final int mr_ic_pause_light = 0x7f0200ac;
+		public static final int mr_ic_play_dark = 0x7f0200ad;
+		public static final int mr_ic_play_light = 0x7f0200ae;
+		public static final int notification_template_icon_bg = 0x7f0200fc;
+		public static final int places_ic_clear = 0x7f0200b2;
+		public static final int places_ic_search = 0x7f0200b3;
+		public static final int powered_by_google_dark = 0x7f0200b4;
+		public static final int powered_by_google_light = 0x7f0200b5;
 	}
 	public static final class id {
 		public static final int action0 = 0x7f0c00da;

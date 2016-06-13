@@ -92,8 +92,8 @@ public class MainActivity extends AppCompatActivity {
     private String last = "";
     public static String title = "";
     private static boolean exit = false;
-    public static int page=1;
-    public static int pos=0;
+    public static int page = 1;
+    public static int pos = 0;
     private Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager pager;
@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
         super.onStart();
         active = true;
         notificationWhile = true;
-        if(exit){
+        if (exit) {
             MusicPlayer.setIsWorking(false);
             notificationWhile = true;
             trackDetection();
@@ -120,13 +120,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onStop() {
         super.onStop();
         active = false;
-        if(notificationWhile){
-//            MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
+        if (notificationWhile) {
+            MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
         }
     }
 
     public static void newNotification(String notText, boolean status) {
-//        nPanel.showNotification(notText, status);
+        nPanel.showNotification(notText, status);
     }
 
     public static void radioListRefresh() {
@@ -138,13 +138,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public static void startBufferingAnimation() {
-        bufferingIndicator = MainScreen.getLoadingImage();
+        bufferingIndicator = LiveFragment.getLoadingImage();
         bufferingAnimation = new LoadingAnimation(bufferingIndicator);
         bufferingAnimation.startAnimation();
     }
 
     public static void stopBufferingAnimation() {
-        bufferingIndicator = MainScreen.getLoadingImage();
+        bufferingIndicator = LiveFragment.getLoadingImage();
         bufferingAnimation.clearAnimation();
     }
 
@@ -222,8 +222,8 @@ public class MainActivity extends AppCompatActivity {
 
         ServiceConnection mConnection = new ServiceConnection() {
             public void onServiceConnected(ComponentName className,
-                                            IBinder binder) {
-				((KillNotificationsService.KillBinder) binder).service.startService(new Intent(
+                                           IBinder binder) {
+                ((KillNotificationsService.KillBinder) binder).service.startService(new Intent(
                         MainActivity.this, KillNotificationsService.class));
                 Intent notificationIntent = new Intent(MainActivity.this,
                         this.getClass());
@@ -253,10 +253,10 @@ public class MainActivity extends AppCompatActivity {
         plus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                notificationWhile=false;
+                notificationWhile = false;
                 try {
                     MusicPlayer.stopMediaPlayer();
-                }catch (Exception e){
+                } catch (Exception e) {
                     e.getMessage();
                 }
                 NotificationPanel.notificationCancel();
@@ -285,14 +285,14 @@ public class MainActivity extends AppCompatActivity {
                     page = 1;
                     radioTitle.setTextColor(Color.parseColor("#7B000000"));
                     screenChaneButton.setImageResource(R.drawable.switch_page);
-                    adView.setVisibility(View.INVISIBLE);
+//                    adView.setVisibility(View.INVISIBLE);
                 } else {
                     page = 2;
                     radioTitle.setText(getResources().getString(R.string.title_2));
                     radioTitle.setTextColor(Color.parseColor("#FF4C82C0"));
                     screenChaneButton.setImageResource(R.drawable.back);
-                    if (Boolean.parseBoolean(getResources().getString(R.string.admob_true_or_false)))
-                        adView.setVisibility(View.VISIBLE);
+//                    if (Boolean.parseBoolean(getResources().getString(R.string.admob_true_or_false)))
+//                        adView.setVisibility(View.VISIBLE);
                 }
             }
 
@@ -330,21 +330,51 @@ public class MainActivity extends AppCompatActivity {
 
         registerReceiver(new HeadsetReceiver(getApplicationContext()), new IntentFilter(Intent.ACTION_HEADSET_PLUG));
 
-        adView = (AdView) this.findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().build();
-        adView.loadAd(adRequest);
-        adView.setVisibility(View.INVISIBLE);
+//        adView = (AdView) this.findViewById(R.id.adView);
+//        AdRequest adRequest = new AdRequest.Builder().build();
+//        adView.loadAd(adRequest);
+//        adView.setVisibility(View.INVISIBLE);
 
         TelephonyManager telephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
         telephonyManager.listen(new PhoneCallListener(), PhoneStateListener.LISTEN_CALL_STATE);
     }
 
-    private void setupViewPager(ViewPager viewPager) {
+    private void setupViewPager(final ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new LiveFragment(), "Live");
         adapter.addFragment(new PodcastFragment(), "Podcasts");
         adapter.addFragment(new FeedFragment(), "Blast Feed");
         viewPager.setAdapter(adapter);
+
+        viewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int i, float v, int i2) {
+                pos = i2;
+            }
+
+            @Override
+            public void onPageSelected(int i) {
+                if (viewPager.getCurrentItem() == 0) {
+                    radioTitle.setText(getResources().getString(R.string.title_1));
+                    page = 1;
+                    radioTitle.setTextColor(Color.parseColor("#7B000000"));
+                    screenChaneButton.setImageResource(R.drawable.switch_page);
+//                    adView.setVisibility(View.INVISIBLE);
+                } else {
+                    page = 2;
+                    radioTitle.setText(getResources().getString(R.string.title_2));
+                    radioTitle.setTextColor(Color.parseColor("#FF4C82C0"));
+                    screenChaneButton.setImageResource(R.drawable.back);
+//                    if (Boolean.parseBoolean(getResources().getString(R.string.admob_true_or_false)))
+//                        adView.setVisibility(View.VISIBLE);
+                }
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int i) {
+            }
+        });
+
     }
 
     private void setupTabIcons() {
@@ -392,13 +422,18 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId() == R.id.action_settings) {
+            if (!MusicPlayer.isStarted()) {
+                if (Boolean.parseBoolean(this.getResources().getString(R.string.autostart_true_or_false))) {
+                    play(this.getResources().getString(R.string.radio_location));
+                }
+            }
         }
         return false;
     }
 
-            @Override
-        public boolean onKeyUp(int keyCode, KeyEvent event) {
-            if (keyCode == KeyEvent.KEYCODE_VOLUME_DOWN)
+    @Override
+    public boolean onKeyUp(int keyCode, KeyEvent event) {
+        if (keyCode == KeyEvent.KEYCODE_VOLUME_DOWN)
             defaultVolumeBarPosition(audioManager, volumeLayout, volumeButton);
         else if (keyCode == KeyEvent.KEYCODE_VOLUME_UP)
             defaultVolumeBarPosition(audioManager, volumeLayout, volumeButton);
@@ -411,13 +446,12 @@ public class MainActivity extends AppCompatActivity {
             defaultVolumeBarPosition(audioManager, volumeLayout, volumeButton);
         else if (keyCode == KeyEvent.KEYCODE_VOLUME_UP)
             defaultVolumeBarPosition(audioManager, volumeLayout, volumeButton);
-        else if (keyCode == KeyEvent.KEYCODE_BACK){
+        else if (keyCode == KeyEvent.KEYCODE_BACK) {
             Intent intent = new Intent(Intent.ACTION_MAIN);
             intent.addCategory(Intent.CATEGORY_HOME);
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             startActivity(intent);
-            }
-        else if (keyCode == KeyEvent.KEYCODE_HOME){
+        } else if (keyCode == KeyEvent.KEYCODE_HOME) {
             Intent intent = new Intent(Intent.ACTION_MAIN);
             intent.addCategory(Intent.CATEGORY_HOME);
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
@@ -434,12 +468,12 @@ public class MainActivity extends AppCompatActivity {
             UIRadioList = (TableLayout) findViewById(R.id.radioListUi);
             radioListName = (TextView) findViewById(R.id.mainRadioName);
             radioListLocation = (TextView) findViewById(R.id.mainRadioLocation);
-            if(title.length()==0){
+            if (title.length() == 0) {
                 radioListLocation.setText(getResources().getString(R.string.welcome_small));
-            }else{
+            } else {
                 radioListLocation.setText(title);
             }
-            startWallpaperAnimation();
+//            startWallpaperAnimation();
             radioListRefresh();
             volumeBarReaction(volumeLayout, volumeButton, audioManager);
             connectionDialog(isOnline());
@@ -453,28 +487,28 @@ public class MainActivity extends AppCompatActivity {
             twitter.refreshDrawableState();
             runOnce = false;
 
-            if(!MusicPlayer.isStarted()){
-                if(Boolean.parseBoolean(this.getResources().getString(R.string.autostart_true_or_false))){
+            if (!MusicPlayer.isStarted()) {
+                if (Boolean.parseBoolean(this.getResources().getString(R.string.autostart_true_or_false))) {
                     play(this.getResources().getString(R.string.radio_location));
                 }
             }
         }
         defaultVolumeBarPosition(audioManager, volumeLayout, volumeButton);
     }
-
-    private void startWallpaperAnimation() {
-        Point size = new Point();
-        Display display = getWindowManager().getDefaultDisplay();
-        display.getSize(size);
-        LinearLayout picture = (LinearLayout) findViewById(R.id.wallpaper);
-        TranslateAnimation animation = new TranslateAnimation(0, 0 - (picture.getWidth() - size.x), 0, 0);
-        animation.setInterpolator(new LinearInterpolator());
-        animation.setDuration(200000);
-        animation.setFillAfter(true);
-        animation.setRepeatMode(Animation.REVERSE);
-        animation.setRepeatCount(Animation.INFINITE);
-        picture.startAnimation(animation);
-    }
+//
+//    private void startWallpaperAnimation() {
+//        Point size = new Point();
+//        Display display = getWindowManager().getDefaultDisplay();
+//        display.getSize(size);
+//        LinearLayout picture = (LinearLayout) findViewById(R.id.wallpaper);
+//        TranslateAnimation animation = new TranslateAnimation(0, 0 - (picture.getWidth() - size.x), 0, 0);
+//        animation.setInterpolator(new LinearInterpolator());
+//        animation.setDuration(200000);
+//        animation.setFillAfter(true);
+//        animation.setRepeatMode(Animation.REVERSE);
+//        animation.setRepeatCount(Animation.INFINITE);
+//        picture.startAnimation(animation);
+//    }
 
     public void defaultVolumeBarPosition(AudioManager audioManager, LinearLayout volumeLayout, LinearLayout volumeButton) {
         float actual = audioManager.getStreamVolume(AudioManager.STREAM_MUSIC);
@@ -516,9 +550,7 @@ public class MainActivity extends AppCompatActivity {
         ConnectivityManager cm =
                 (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo netInfo = cm.getActiveNetworkInfo();
-        if (netInfo != null && netInfo.isConnectedOrConnecting()) {
-            return true;
-        } else return false;
+        return netInfo != null && netInfo.isConnectedOrConnecting();
     }
 
     public void connectionDialog(boolean isOnline) {
@@ -557,53 +589,51 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void trackDetection() {
-         new Thread() {
+        new Thread() {
             @Override
             public void run() {
                 while (notificationWhile) {
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            if(!PhoneCallListener.message){
-                                if(MusicPlayer.isWorking()){
+                            if (!PhoneCallListener.message) {
+                                if (MusicPlayer.isWorking()) {
                                     if (!MusicPlayer.getTrackTitle().trim().toString().equals("")) {
                                         title = MusicPlayer.getTrackTitle().trim().toString();
-                                        if(title.contains("~+") || title.contains("ad|")){
+                                        if (title.contains("~+") || title.contains("ad|")) {
                                             title = "COMMERICAL BREAK";
                                         }
-                                        if (title.length() > 0 && title.charAt(title.length()-1)=='-') {
-                                            title = title.substring(0, title.length()-1).trim();
+                                        if (title.length() > 0 && title.charAt(title.length() - 1) == '-') {
+                                            title = title.substring(0, title.length() - 1).trim();
                                         }
 
                                         String[] parts = title.split("\\(");
-                                        if(parts.length==2){
-                                            radioListLocation.setText(parts[0].toString()+"\n("+parts[1]);
-                                            title = parts[0].toString()+"\n("+parts[1];
-                                        }
-                                        else
+                                        if (parts.length == 2) {
+                                            radioListLocation.setText(parts[0].toString() + "\n(" + parts[1]);
+                                            title = parts[0].toString() + "\n(" + parts[1];
+                                        } else
                                             radioListLocation.setText(title);
-                                        if(!last.equals(title)) {
+                                        if (!last.equals(title)) {
                                             MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
                                             last = title;
                                         }
-                                    }else if (MusicPlayer.getTrackTitle().trim().toString().equals("") && MusicPlayer.isStarted() && !radioListLocation.getText().toString().equals(getResources().getString(R.string.radio_location))) {
+                                    } else if (MusicPlayer.getTrackTitle().trim().toString().equals("") && MusicPlayer.isStarted() && !radioListLocation.getText().toString().equals(getResources().getString(R.string.radio_location))) {
                                         title = getResources().getString(R.string.radio_location);
                                         radioListLocation.setText(title);
                                         MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
                                     }
-                                }
-                                else {
+                                } else {
                                     if (!radioListLocation.getText().toString().equals(title) && !exit) {
                                         title = getResources().getString(R.string.radio_offline);
                                         radioListLocation.setText(title);
                                         MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
-                                    }else{
+                                    } else {
                                         title = getResources().getString(R.string.welcome_small);
                                         radioListLocation.setText(title);
                                         MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
                                     }
                                 }
-                            }else{
+                            } else {
                                 radioListLocation.setText(getResources().getString(R.string.resume));
                             }
                         }
@@ -614,7 +644,7 @@ public class MainActivity extends AppCompatActivity {
                         e.printStackTrace();
                     }
                 }
-                if(exit==true){
+                if (exit == true) {
                     try {
                         sleep(1000);
                     } catch (InterruptedException e) {

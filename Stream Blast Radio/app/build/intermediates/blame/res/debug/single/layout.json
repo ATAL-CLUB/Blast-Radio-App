@@ -220,16 +220,20 @@
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/layout/viewpager_layout.xml",
-        "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/layout/viewpager_layout.xml"
-    },
-    {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/layout/viewpager_layout.xml",
+        "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/layout/viewpager_layout.xml"
+    },
+    {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/layout/list_item.xml",
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/layout/test2.xml",
+        "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/layout/test2.xml"
     },
     {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
@@ -238,6 +242,10 @@
     {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/layout/test.xml",
+        "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/layout/test.xml"
     },
     {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",

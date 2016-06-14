@@ -500,6 +500,10 @@
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
+        "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_play_arrow_black_24dp.png",
+        "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/drawable-xhdpi/ic_play_arrow_black_24dp.png"
+    },
+    {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/places_ic_search.png",
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/drawable-xhdpi-v4/places_ic_search.png"
     },
@@ -742,5 +746,9 @@
     {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/w012.png",
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/drawable-xhdpi/w012.png"
+    },
+    {
+        "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_file_download_black_24dp.png",
+        "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/drawable-xhdpi/ic_file_download_black_24dp.png"
     }
 ]

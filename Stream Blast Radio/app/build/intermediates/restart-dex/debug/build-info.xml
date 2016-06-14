@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="24"
-    density="560dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
     format="7"
-    timestamp="1089455756260"
+    timestamp="4861909668823"
     token="-323722726636063759" >
 
     <task
         name="javac"
-        duration="331" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="19" />
+        duration="0" />
     <task
         name="verifier"
-        duration="9" />
+        duration="0" />
 
     <artifact
-        location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-        type="DEX" />
+        location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="323392054941" >
+    <build timestamp="4319863489466" >
         <artifact
             location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="1089455756260" >
+    <build timestamp="4861909668823" >
         <artifact
-            location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
+            location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

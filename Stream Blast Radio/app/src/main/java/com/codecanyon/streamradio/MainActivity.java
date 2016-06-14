@@ -30,9 +30,11 @@ import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
+import android.text.Layout;
 import android.util.Log;
 import android.view.Display;
 import android.view.KeyEvent;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -218,7 +220,16 @@ public class MainActivity extends AppCompatActivity {
         setupTabIcons();
 
         tvToolbarText = (TextView) findViewById(R.id.tvToolbarText);
+//        View android = inflater.inflate(R.layout.fragment_podcast, container, false);
+
+        final View view = (View) findViewById(R.id.main_last);
+
+
+
+
+
 //        pager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+
 //
 //
 //
@@ -258,14 +269,17 @@ public class MainActivity extends AppCompatActivity {
             public void onPageSelected(int position) {
                 if (pager.getCurrentItem() == 0) {
                     tvToolbarText.setText("Blast Radio");
+                    view.setVisibility(View.VISIBLE);
                     Log.d("currentTabItem", "LIVE");
                 }
                 else if (pager.getCurrentItem() == 1) {
                     tvToolbarText.setText("Podcast");
+                    view.setVisibility(View.INVISIBLE);
                     Log.d("currentTabItem", "PODCAST");
                 }
                 else {
                     tvToolbarText.setText("Blast Feed");
+                    view.setVisibility(View.INVISIBLE);
                     Log.d("currentTabItem", "BLAST FEED");
                 }
             }

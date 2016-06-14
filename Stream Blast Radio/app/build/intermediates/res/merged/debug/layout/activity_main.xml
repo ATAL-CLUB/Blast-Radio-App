@@ -112,6 +112,7 @@
             android:layout_weight="0"/>
 
         <include
+            android:id="@+id/main_last"
             layout="@layout/main_last"
             android:layout_width="match_parent"
             android:layout_height="84dp"

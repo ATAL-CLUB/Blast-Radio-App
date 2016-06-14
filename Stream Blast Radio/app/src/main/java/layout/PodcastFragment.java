@@ -45,11 +45,11 @@ public class PodcastFragment extends Fragment {
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(mAdapter);
-        prepareMovieData();
+        preparePodcastDummyData();
         return android;
     }
 
-    private void prepareMovieData() {
+    private void preparePodcastDummyData() {
         Podcast podcast = new Podcast("Something About Nothing", "An exciting new podcast by Daniel & Craig", "2016");
         podcastList.add(podcast);
 

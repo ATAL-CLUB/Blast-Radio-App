@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="23"
-    density="xxhdpi"
+    abi="x86_64,x86"
+    api-level="24"
+    density="560dpi"
     format="7"
-    timestamp="20716118618597"
+    timestamp="2337053634425"
     token="-323722726636063759" >
 
     <task
@@ -24,12 +24,29 @@
         location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="20339162108165" >
+    <build timestamp="1982232203241" >
         <artifact
             location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="20716118618597" >
+    <build timestamp="2246034619172" >
+        <artifact
+            location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="2337053634425" >
         <artifact
             location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />

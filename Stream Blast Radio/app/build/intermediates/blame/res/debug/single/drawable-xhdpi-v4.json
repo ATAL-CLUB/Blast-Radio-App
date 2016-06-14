@@ -100,6 +100,10 @@
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_search_black_18dp.png",
+        "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/drawable-xhdpi/ic_search_black_18dp.png"
+    },
+    {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/powered_by_google_dark.png",
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/drawable-xhdpi-v4/powered_by_google_dark.png"
     },
@@ -550,6 +554,10 @@
     {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_plusone_medium_off_client.png",
         "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_search_black_36dp.png",
+        "source": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/src/main/res/drawable-xhdpi/ic_search_black_36dp.png"
     },
     {
         "merged": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_media_route_on_1_mono_dark.png",

@@ -376,16 +376,6 @@
         </com.codecanyon.streamradio.UntouchableHorizontalScrollView>
     </com.codecanyon.streamradio.UntouchableScrollView>
 
-    <TextView
-        android:id="@+id/mainRadioName"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:gravity="center"
-        android:text="@string/welcome_big"
-        android:textColor="#ffffff"
-        android:textSize="@dimen/radio_main_name" />
-
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
@@ -394,7 +384,7 @@
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="0px"
-            android:layout_weight="400"
+            android:layout_weight="100"
             android:orientation="vertical">
 
             <ImageView
@@ -406,6 +396,23 @@
                 android:visibility="invisible" />
 
         </LinearLayout>
+
+        <TextView
+            android:id="@+id/mainRadioName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/welcome_big"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/radio_main_name" />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:id="@+id/play_button"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/clean_play_buttons"/>
 
         <LinearLayout
             android:layout_width="fill_parent"

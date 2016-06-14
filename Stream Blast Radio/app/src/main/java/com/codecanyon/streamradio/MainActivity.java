@@ -102,6 +102,7 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.ic_action_podcast,
             R.drawable.ic_action_device_dvr
     };
+    private TextView tvToolbarText;
 
     @Override
     protected void onStart() {
@@ -121,12 +122,12 @@ public class MainActivity extends AppCompatActivity {
         super.onStop();
         active = false;
         if (notificationWhile) {
-            MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
+//            MainActivity.newNotification(getResources().getString(R.string.radio_name), active);
         }
     }
 
     public static void newNotification(String notText, boolean status) {
-        nPanel.showNotification(notText, status);
+//        nPanel.showNotification(notText, status);
     }
 
     public static void radioListRefresh() {
@@ -206,6 +207,7 @@ public class MainActivity extends AppCompatActivity {
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
 
         pager = (ViewPager) findViewById(R.id.viewpager);
         setupViewPager(pager);
@@ -215,10 +217,69 @@ public class MainActivity extends AppCompatActivity {
 
         setupTabIcons();
 
+        tvToolbarText = (TextView) findViewById(R.id.tvToolbarText);
+//        pager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+//
+//
+//
+//            @Override
+//            public void onPageScrolled(int i, float v, int i2) {
+//                pos = i2;
+//            }
+//
+//            @Override
+//            public void onPageSelected(int i) {
+//                if (viewPager.getCurrentItem() == 0) {
+//                    Log.d("currentTabItem", "LIVE");
+//                }
+//                else if (viewPager.getCurrentItem() == 1) {
+//                    Log.d("currentTabItem", "PODCAST");
+//                }
+//                else {
+//                    Log.d("currentTabItem", "BLAST FEED");
+//                }
+//            }
+//
+//            @Override
+//            public void onPageScrollStateChanged(int i) {
+//            }
+//
+//
+//        });
+
+        pager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+                if (pager.getCurrentItem() == 0) {
+                    tvToolbarText.setText("Blast Radio");
+                    Log.d("currentTabItem", "LIVE");
+                }
+                else if (pager.getCurrentItem() == 1) {
+                    tvToolbarText.setText("Podcast");
+                    Log.d("currentTabItem", "PODCAST");
+                }
+                else {
+                    tvToolbarText.setText("Blast Feed");
+                    Log.d("currentTabItem", "BLAST FEED");
+                }
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+
+            }
+        });
+
         dataManager = new DataManager(this);
         fontRegular = Typeface.createFromAsset(getAssets(), "fonts/font.otf");
-        radioTitle = (TextView) findViewById(R.id.radioTitle);
-        radioTitle.setTypeface(fontRegular);
+//        radioTitle = (TextView) findViewById(R.id.radioTitle);
+//        radioTitle.setTypeface(fontRegular);
 
         ServiceConnection mConnection = new ServiceConnection() {
             public void onServiceConnected(ComponentName className,
@@ -249,24 +310,24 @@ public class MainActivity extends AppCompatActivity {
                         KillNotificationsService.class), mConnection,
                 Context.BIND_AUTO_CREATE);
 
-        plus = (ImageView) findViewById(R.id.plus);
-        plus.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                notificationWhile = false;
-                try {
-                    MusicPlayer.stopMediaPlayer();
-                } catch (Exception e) {
-                    e.getMessage();
-                }
-                NotificationPanel.notificationCancel();
-                exit = true;
-                Intent intent = new Intent(Intent.ACTION_MAIN);
-                intent.addCategory(Intent.CATEGORY_HOME);
-                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                startActivity(intent);
-            }
-        });
+//        plus = (ImageView) findViewById(R.id.plus);
+//        plus.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                notificationWhile = false;
+//                try {
+//                    MusicPlayer.stopMediaPlayer();
+//                } catch (Exception e) {
+//                    e.getMessage();
+//                }
+//                NotificationPanel.notificationCancel();
+//                exit = true;
+//                Intent intent = new Intent(Intent.ACTION_MAIN);
+//                intent.addCategory(Intent.CATEGORY_HOME);
+//                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+//                startActivity(intent);
+//            }
+//        });
 
         TabPagerAdapter tabPageAdapter = new TabPagerAdapter(getSupportFragmentManager());
         viewPager = (ViewPager) findViewById(R.id.pager);
@@ -285,14 +346,14 @@ public class MainActivity extends AppCompatActivity {
                     page = 1;
                     radioTitle.setTextColor(Color.parseColor("#7B000000"));
                     screenChaneButton.setImageResource(R.drawable.switch_page);
-//                    adView.setVisibility(View.INVISIBLE);
+                    adView.setVisibility(View.INVISIBLE);
                 } else {
                     page = 2;
                     radioTitle.setText(getResources().getString(R.string.title_2));
                     radioTitle.setTextColor(Color.parseColor("#FF4C82C0"));
                     screenChaneButton.setImageResource(R.drawable.back);
-//                    if (Boolean.parseBoolean(getResources().getString(R.string.admob_true_or_false)))
-//                        adView.setVisibility(View.VISIBLE);
+                    if (Boolean.parseBoolean(getResources().getString(R.string.admob_true_or_false)))
+                        adView.setVisibility(View.VISIBLE);
                 }
             }
 
@@ -301,14 +362,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        screenChaneButton = (ImageView) findViewById(R.id.nextScreen);
-        screenChaneButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if (viewPager.getCurrentItem() == 0) viewPager.setCurrentItem(1, true);
-                else viewPager.setCurrentItem(0, true);
-            }
-        });
+//        screenChaneButton = (ImageView) findViewById(R.id.nextScreen);
+//        screenChaneButton.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                if (viewPager.getCurrentItem() == 0) viewPager.setCurrentItem(1, true);
+//                else viewPager.setCurrentItem(0, true);
+//            }
+//        });
         speaker = (ImageView) findViewById(R.id.speaker);
         speaker.setOnTouchListener(new View.OnTouchListener() {
             @Override
@@ -346,34 +407,40 @@ public class MainActivity extends AppCompatActivity {
         adapter.addFragment(new FeedFragment(), "Blast Feed");
         viewPager.setAdapter(adapter);
 
-        viewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
-            @Override
-            public void onPageScrolled(int i, float v, int i2) {
-                pos = i2;
-            }
-
-            @Override
-            public void onPageSelected(int i) {
-                if (viewPager.getCurrentItem() == 0) {
-                    radioTitle.setText(getResources().getString(R.string.title_1));
-                    page = 1;
-                    radioTitle.setTextColor(Color.parseColor("#7B000000"));
-                    screenChaneButton.setImageResource(R.drawable.switch_page);
-//                    adView.setVisibility(View.INVISIBLE);
-                } else {
-                    page = 2;
-                    radioTitle.setText(getResources().getString(R.string.title_2));
-                    radioTitle.setTextColor(Color.parseColor("#FF4C82C0"));
-                    screenChaneButton.setImageResource(R.drawable.back);
-//                    if (Boolean.parseBoolean(getResources().getString(R.string.admob_true_or_false)))
-//                        adView.setVisibility(View.VISIBLE);
-                }
-            }
-
-            @Override
-            public void onPageScrollStateChanged(int i) {
-            }
-        });
+//        viewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+//
+//
+//
+//            @Override
+//            public void onPageScrolled(int i, float v, int i2) {
+//                pos = i2;
+//            }
+//
+//            @Override
+//            public void onPageSelected(int i) {
+//                if (viewPager.getCurrentItem() == 0) {
+//                    radioTitle.setText(getResources().getString(R.string.title_1));
+//                    page = 1;
+//
+//                    radioTitle.setTextColor(Color.parseColor("#7B000000"));
+//                    screenChaneButton.setImageResource(R.drawable.switch_page);
+////                    adView.setVisibility(View.INVISIBLE);
+//                } else {
+//                    page = 2;
+//                    radioTitle.setText(getResources().getString(R.string.title_2));
+//                    radioTitle.setTextColor(Color.parseColor("#FF4C82C0"));
+//                    screenChaneButton.setImageResource(R.drawable.back);
+////                    if (Boolean.parseBoolean(getResources().getString(R.string.admob_true_or_false)))
+////                        adView.setVisibility(View.VISIBLE);
+//                }
+//            }
+//
+//            @Override
+//            public void onPageScrollStateChanged(int i) {
+//            }
+//
+//
+//        });
 
     }
 
@@ -422,12 +489,23 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId() == R.id.action_settings) {
-            if (!MusicPlayer.isStarted()) {
-                if (Boolean.parseBoolean(this.getResources().getString(R.string.autostart_true_or_false))) {
-                    play(this.getResources().getString(R.string.radio_location));
-                }
-            }
+            play(this.getResources().getString(R.string.radio_location));
         }
+        else if (item.getItemId() == R.id.action_exit) {
+                notificationWhile = false;
+                try {
+                    MusicPlayer.stopMediaPlayer();
+                } catch (Exception e) {
+                    e.getMessage();
+                }
+                NotificationPanel.notificationCancel();
+                exit = true;
+                Intent intent = new Intent(Intent.ACTION_MAIN);
+                intent.addCategory(Intent.CATEGORY_HOME);
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                startActivity(intent);
+            }
+
         return false;
     }
 

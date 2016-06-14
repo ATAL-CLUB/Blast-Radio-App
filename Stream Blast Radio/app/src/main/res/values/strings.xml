@@ -15,7 +15,7 @@
     <string name="admob_true_or_false">true</string>
 
     <string name="welcome_big">Blast Radio</string>
-    <string name="welcome_small">Tap to start.</string>
+    <string name="welcome_small">Tap to play</string>
 
     <string name="radio_name">Blast Radio</string>
     <string name="radio_location">West London University</string>
@@ -29,4 +29,5 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_exit">Exit</string>
 </resources>

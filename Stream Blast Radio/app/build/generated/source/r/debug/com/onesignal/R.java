@@ -116,10 +116,10 @@ public final class R {
 		public static final int common_plus_signin_btn_text_light_focused = 0x7f02007b;
 		public static final int common_plus_signin_btn_text_light_normal = 0x7f02007c;
 		public static final int common_plus_signin_btn_text_light_pressed = 0x7f02007d;
-		public static final int places_ic_clear = 0x7f0200b8;
-		public static final int places_ic_search = 0x7f0200b9;
-		public static final int powered_by_google_dark = 0x7f0200ba;
-		public static final int powered_by_google_light = 0x7f0200bb;
+		public static final int places_ic_clear = 0x7f0200b9;
+		public static final int places_ic_search = 0x7f0200ba;
+		public static final int powered_by_google_dark = 0x7f0200bb;
+		public static final int powered_by_google_light = 0x7f0200bc;
 	}
 	public static final class id {
 		public static final int adjust_height = 0x7f0c0043;
@@ -131,14 +131,14 @@ public final class R {
 		public static final int light = 0x7f0c005c;
 		public static final int none = 0x7f0c0012;
 		public static final int normal = 0x7f0c000e;
-		public static final int place_autocomplete_clear_button = 0x7f0c00f1;
-		public static final int place_autocomplete_powered_by_google = 0x7f0c00f3;
-		public static final int place_autocomplete_prediction_primary_text = 0x7f0c00f5;
-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0c00f6;
-		public static final int place_autocomplete_progress = 0x7f0c00f4;
-		public static final int place_autocomplete_search_button = 0x7f0c00ef;
-		public static final int place_autocomplete_search_input = 0x7f0c00f0;
-		public static final int place_autocomplete_separator = 0x7f0c00f2;
+		public static final int place_autocomplete_clear_button = 0x7f0c00f3;
+		public static final int place_autocomplete_powered_by_google = 0x7f0c00f5;
+		public static final int place_autocomplete_prediction_primary_text = 0x7f0c00f7;
+		public static final int place_autocomplete_prediction_secondary_text = 0x7f0c00f8;
+		public static final int place_autocomplete_progress = 0x7f0c00f6;
+		public static final int place_autocomplete_search_button = 0x7f0c00f1;
+		public static final int place_autocomplete_search_input = 0x7f0c00f2;
+		public static final int place_autocomplete_separator = 0x7f0c00f4;
 		public static final int satellite = 0x7f0c0046;
 		public static final int standard = 0x7f0c0058;
 		public static final int terrain = 0x7f0c0047;

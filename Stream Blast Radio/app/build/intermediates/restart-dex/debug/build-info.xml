@@ -4,7 +4,7 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="4861909668823"
+    timestamp="15855526353711"
     token="-323722726636063759" >
 
     <task
@@ -24,12 +24,12 @@
         location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="4319863489466" >
+    <build timestamp="15778437662666" >
         <artifact
             location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="4861909668823" >
+    <build timestamp="15855526353711" >
         <artifact
             location="/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />

@@ -20,12 +20,15 @@ public class PodcastAdapter extends RecyclerView.Adapter<PodcastAdapter.MyViewHo
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
         public TextView title, year, description;
+        public TextView plays, duration;
 
         public MyViewHolder(View view) {
             super(view);
             title = (TextView) view.findViewById(R.id.title);
-            description = (TextView) view.findViewById(R.id.description);
+//            description = (TextView) view.findViewById(R.id.tvViews);
             year = (TextView) view.findViewById(R.id.year);
+            duration = (TextView) view.findViewById(R.id.tvDuration);
+            plays = (TextView) view.findViewById(R.id.tvViews);
         }
     }
 
@@ -46,8 +49,10 @@ public class PodcastAdapter extends RecyclerView.Adapter<PodcastAdapter.MyViewHo
     public void onBindViewHolder(MyViewHolder holder, int position) {
         Podcast podcast = podcastList.get(position);
         holder.title.setText(podcast.getTitle());
-        holder.description.setText(podcast.getDescription());
+//        holder.description.setText(podcast.getDescription());
         holder.year.setText(podcast.getYear());
+        holder.duration.setText(podcast.getDuration() + "");
+        holder.plays.setText(podcast.getPlayback_count() + "");
     }
 
     @Override

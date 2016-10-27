@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\res\\merged\\debug\\values-ne-rNP\\values-ne-rNP.xml",
+        "outputFile": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/res/merged/debug/values-ne-rNP/values-ne-rNP.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 155
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 55,
                         "endColumn": 104,
-                        "endOffset": 380
+                        "endOffset": 155
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 385,
+                        "startOffset": 160,
                         "endColumn": 107,
-                        "endOffset": 488
+                        "endOffset": 263
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 386
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 493,
+                        "startOffset": 268,
                         "endColumn": 122,
-                        "endOffset": 611
+                        "endOffset": 386
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 490
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 616,
+                        "startOffset": 391,
                         "endColumn": 103,
-                        "endOffset": 715
+                        "endOffset": 490
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 598
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 720,
+                        "startOffset": 495,
                         "endColumn": 107,
-                        "endOffset": 823
+                        "endOffset": 598
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 689
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 828,
+                        "startOffset": 603,
                         "endColumn": 90,
-                        "endOffset": 914
+                        "endOffset": 689
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 796
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 919,
+                        "startOffset": 694,
                         "endColumn": 106,
-                        "endOffset": 1021
+                        "endOffset": 796
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 923
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1026,
+                        "startOffset": 801,
                         "endColumn": 126,
-                        "endOffset": 1148
+                        "endOffset": 923
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 928,
-                    "endColumn": 87,
-                    "endOffset": 1011
+                    "endColumn": 93,
+                    "endOffset": 1017
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1153,
-                        "endColumn": 87,
-                        "endOffset": 1236
+                        "startOffset": 928,
+                        "endColumn": 93,
+                        "endOffset": 1017
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1016,
-                    "endColumn": 109,
-                    "endOffset": 1121
+                    "startOffset": 1022,
+                    "endColumn": 89,
+                    "endOffset": 1107
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1241,
-                        "endColumn": 109,
-                        "endOffset": 1346
+                        "startOffset": 1022,
+                        "endColumn": 89,
+                        "endOffset": 1107
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1126,
-                    "endColumn": 115,
-                    "endOffset": 1237
+                    "startOffset": 1112,
+                    "endColumn": 87,
+                    "endOffset": 1195
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1351,
-                        "endColumn": 115,
-                        "endOffset": 1462
+                        "startOffset": 1112,
+                        "endColumn": 87,
+                        "endOffset": 1195
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1242,
-                    "endColumn": 102,
-                    "endOffset": 1340
+                    "startOffset": 1200,
+                    "endColumn": 109,
+                    "endOffset": 1305
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1467,
-                        "endColumn": 102,
-                        "endOffset": 1565
+                        "startOffset": 1200,
+                        "endColumn": 109,
+                        "endOffset": 1305
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1345,
-                    "endColumn": 114,
-                    "endOffset": 1455
+                    "startOffset": 1310,
+                    "endColumn": 115,
+                    "endOffset": 1421
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1570,
-                        "endColumn": 114,
-                        "endOffset": 1680
+                        "startOffset": 1310,
+                        "endColumn": 115,
+                        "endOffset": 1421
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1460,
-                    "endColumn": 101,
-                    "endOffset": 1557
+                    "startOffset": 1426,
+                    "endColumn": 102,
+                    "endOffset": 1524
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1685,
-                        "endColumn": 101,
-                        "endOffset": 1782
+                        "startOffset": 1426,
+                        "endColumn": 102,
+                        "endOffset": 1524
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1562,
+                    "startOffset": 1529,
                     "endColumn": 114,
-                    "endOffset": 1672
+                    "endOffset": 1639
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1787,
+                        "startOffset": 1529,
                         "endColumn": 114,
-                        "endOffset": 1897
+                        "endOffset": 1639
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1677,
-                    "endColumn": 130,
-                    "endOffset": 1803
+                    "startOffset": 1644,
+                    "endColumn": 101,
+                    "endOffset": 1741
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1902,
-                        "endColumn": 130,
-                        "endOffset": 2028
+                        "startOffset": 1644,
+                        "endColumn": 101,
+                        "endOffset": 1741
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1808,
-                    "endColumn": 111,
-                    "endOffset": 1915
+                    "startOffset": 1746,
+                    "endColumn": 114,
+                    "endOffset": 1856
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2033,
-                        "endColumn": 111,
-                        "endOffset": 2140
+                        "startOffset": 1746,
+                        "endColumn": 114,
+                        "endOffset": 1856
                     }
                 }
             },
@@ -329,12 +329,50 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1920,
-                    "endColumn": 105,
-                    "endOffset": 2021
+                    "startOffset": 1861,
+                    "endColumn": 130,
+                    "endOffset": 1987
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 130,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 111,
+                    "endOffset": 2099
+                },
+                "from": {
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 111,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2104,
+                    "endColumn": 105,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -346,14 +384,14 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2026,
+                    "startOffset": 2210,
                     "endColumn": 121,
-                    "endOffset": 2143
+                    "endOffset": 2327
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -365,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2148,
+                    "startOffset": 2332,
                     "endColumn": 110,
-                    "endOffset": 2254
+                    "endOffset": 2438
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -384,14 +422,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2259,
+                    "startOffset": 2443,
                     "endColumn": 112,
-                    "endOffset": 2367
+                    "endOffset": 2551
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -403,14 +441,14 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2372,
+                    "startOffset": 2556,
                     "endColumn": 120,
-                    "endOffset": 2488
+                    "endOffset": 2672
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -422,14 +460,14 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2493,
+                    "startOffset": 2677,
                     "endColumn": 100,
-                    "endOffset": 2589
+                    "endOffset": 2773
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -441,14 +479,14 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2594,
+                    "startOffset": 2778,
                     "endColumn": 99,
-                    "endOffset": 2689
+                    "endOffset": 2873
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -460,14 +498,14 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2694,
+                    "startOffset": 2878,
                     "endColumn": 115,
-                    "endOffset": 2805
+                    "endOffset": 2989
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -479,14 +517,14 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2810,
+                    "startOffset": 2994,
                     "endColumn": 108,
-                    "endOffset": 2914
+                    "endOffset": 3098
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -498,14 +536,14 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2919,
+                    "startOffset": 3103,
                     "endColumn": 86,
-                    "endOffset": 3001
+                    "endOffset": 3185
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -517,14 +555,14 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3006,
+                    "startOffset": 3190,
                     "endColumn": 94,
-                    "endOffset": 3096
+                    "endOffset": 3280
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -536,20 +574,20 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3101,
+                    "startOffset": 3285,
                     "endColumn": 100,
-                    "endOffset": 3197
+                    "endOffset": 3381
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\BlastRadio1\\Stream Blast Radio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "/home/emmanueladeleke/AndroidStudioProjects/Blast-Radio-App/Stream Blast Radio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2145,
+                        "startOffset": 2104,
                         "endColumn": 100,
-                        "endOffset": 2241
+                        "endOffset": 2200
                     }
                 }
             }

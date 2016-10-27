@@ -7,48 +7,138 @@
     android:orientation="vertical"
     tools:context="com.codecanyon.app.MainActivity$PlaceholderFragment">
 
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:orientation="vertical">
+    <!--<LinearLayout-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:orientation="vertical">-->
 
-        <include
-            layout="@layout/main_front"
-            android:layout_width="fill_parent"
-            android:layout_height="0px"
-            android:layout_weight="64" />
+        <!--<include-->
+            <!--layout="@layout/toolbar"-->
+            <!--android:id="@+id/toolbar"/>-->
 
-        <include
-            layout="@layout/viewpager_layout"
-            android:layout_width="fill_parent"
-            android:layout_height="0px"
-            android:layout_weight="340" />
+        <!--<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+            <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="350dp">-->
 
-        <include
-            layout="@layout/main_last"
-            android:layout_width="match_parent"
-            android:layout_height="0px"
-            android:layout_weight="64" />
+            <!--<android.support.design.widget.AppBarLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">-->
 
-    </LinearLayout>
+                <!--<android.support.design.widget.TabLayout-->
+                    <!--android:id="@+id/tabs"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--app:tabMode="fixed"-->
+                    <!--app:tabGravity="fill"/>-->
+            <!--</android.support.design.widget.AppBarLayout>-->
+
+            <!--<android.support.v4.view.ViewPager-->
+                <!--android:id="@+id/viewpager"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent"-->
+                <!--app:layout_behavior="@string/appbar_scrolling_view_behavior"  />-->
+        <!--</android.support.design.widget.CoordinatorLayout>-->
+
+        <!--&lt;!&ndash;<include&ndash;&gt;-->
+            <!--&lt;!&ndash;layout="@layout/main_front"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="fill_parent"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="0px"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_weight="64" />&ndash;&gt;-->
+
+        <!--<include-->
+            <!--layout="@layout/viewpager_layout"-->
+            <!--android:layout_width="0px"-->
+            <!--android:layout_height="0px"-->
+            <!--android:layout_weight="0"/>-->
+
+        <!--<include-->
+            <!--layout="@layout/main_last"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="84dp" />-->
+
+    <!--</LinearLayout>-->
 
     <RelativeLayout
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent">
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/toolbar"
+            android:id="@+id/toolbar"/>
+
+        <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/cLayout"
+            android:layout_below="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.design.widget.AppBarLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+                <android.support.design.widget.TabLayout
+                    android:id="@+id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:tabMode="fixed"
+                    android:background="@color/colorPrimary"
+                    app:tabGravity="fill"/>
+            </android.support.design.widget.AppBarLayout>
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewpager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"  />
+        </android.support.design.widget.CoordinatorLayout>
+
+        <!--<include-->
+        <!--layout="@layout/main_front"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="0px"-->
+        <!--android:layout_weight="64" />-->
+
+        <include
+            layout="@layout/viewpager_layout"
+            android:layout_width="0px"
+            android:layout_height="0px"
+            android:layout_weight="0"/>
+
+        <include
+            android:id="@+id/main_last"
+            layout="@layout/main_last"
+            android:layout_width="match_parent"
+            android:layout_height="84dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
 
     </RelativeLayout>
 
-    <com.google.android.gms.ads.AdView
-        android:id="@+id/adView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/textView"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignTop="@+id/textView"
-        android:layout_gravity="bottom"
-        android:layout_marginBottom="10dp"
-        ads:adSize="BANNER"
-        ads:adUnitId="@string/admob_id" />
+    <!--<RelativeLayout-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent">-->
+
+    <!--</RelativeLayout>-->
+
+    <!--<com.google.android.gms.ads.AdView-->
+        <!--android:id="@+id/adView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignBottom="@+id/textView"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_alignTop="@+id/textView"-->
+        <!--android:layout_gravity="bottom"-->
+        <!--android:layout_marginBottom="10dp"-->
+        <!--ads:adSize="BANNER"-->
+        <!--ads:adUnitId="@string/admob_id" />-->
 
 </FrameLayout>

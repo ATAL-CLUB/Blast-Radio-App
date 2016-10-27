@@ -19,8 +19,7 @@ public class LoadingAnimation {
         } catch (Exception e) {
             e.getMessage();
         }
-        if (status) return true;
-        else return false;
+        return status;
     }
 
     public void startAnimation() {
